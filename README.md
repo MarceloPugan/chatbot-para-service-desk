@@ -13,7 +13,7 @@ from email.message import EmailMessage
 
 data = datetime.now()
 
-EMAIL_ADDRESS = 'puganchatbot@gmail.com'
+EMAIL_ADDRESS = '************'
 EMAIL_PASSWORD = '************'
 
 nome = input('qual o seu nome? ')
